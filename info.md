@@ -1,9 +1,5 @@
 Show a counter for your pending notifications as a bage on the favicon.
 
-![img](https://github.com/custom-cards/favicon-counter/blob/master/media/img.png?raw=true)
-
-## Demo
-
 ![demo](https://github.com/custom-cards/favicon-counter/blob/master/media/notification_counter.gif?raw=true)
 
 
