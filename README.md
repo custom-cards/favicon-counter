@@ -15,7 +15,7 @@ if not, download the `favicon-counter.js` from this repo, and place it underyou 
 ```
 resources:
   - url: /community_plugin/favicon-counter/favicon-counter.js
-    type: js
+    type: module
 ```
 
 ## Demo
